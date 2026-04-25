@@ -1,2 +1,2 @@
-The Forgotten Path - Developed by Ryan Carlo Olivas for Final Year Solo Project
+The Forgotten Path - 2D Side Scroller Platformer Developed by Ryan Carlo Olivas for Final Year Solo Project
 

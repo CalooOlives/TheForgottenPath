@@ -13,4 +13,8 @@ P - Pause Menu
 Left Mouse Button - Attack 
 Q - Launch Fireball 
 
+<img width="1532" height="562" alt="{BECE29B7-0E73-470F-9615-04863EEDB76F}" src="https://github.com/user-attachments/assets/c91b669d-8f7b-4cd9-a69d-7a8f2d6cb0d3" />
+
 <img width="1528" height="565" alt="{912165E1-74B2-47E9-AA77-1A34A808F1C5}" src="https://github.com/user-attachments/assets/4fb4431b-1657-4a8d-999d-118765f0baf1" />
+
+<img width="1528" height="564" alt="{159B53A0-2B0B-4D8C-AAF2-499FBCD9E9CE}" src="https://github.com/user-attachments/assets/e962e4a1-21fe-4474-82c4-80ade6cd58f1" />

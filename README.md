@@ -9,6 +9,8 @@ A - Move Left
 D - Move Right
 Space Bar - Jump
 Z - Dash 
-Esc - Pause Menu 
-Left click - Attack 
+P - Pause Menu 
+Left Mouse Button - Attack 
+Q - Launch Fireball 
 
+<img width="1528" height="565" alt="{912165E1-74B2-47E9-AA77-1A34A808F1C5}" src="https://github.com/user-attachments/assets/4fb4431b-1657-4a8d-999d-118765f0baf1" />

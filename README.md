@@ -18,3 +18,7 @@ Q - Launch Fireball
 <img width="1528" height="565" alt="{912165E1-74B2-47E9-AA77-1A34A808F1C5}" src="https://github.com/user-attachments/assets/4fb4431b-1657-4a8d-999d-118765f0baf1" />
 
 <img width="1528" height="564" alt="{159B53A0-2B0B-4D8C-AAF2-499FBCD9E9CE}" src="https://github.com/user-attachments/assets/e962e4a1-21fe-4474-82c4-80ade6cd58f1" />
+
+
+**KNOWN ISSUES
+- Collision with certain terrain is not consistent such as slanted platforms

@@ -6,30 +6,17 @@ The Forgotten Path - 2D Side Scroller Platformer Developed by Ryan Carlo Olivas 
 **INSTRUCTIONS FOR PAPERZD PLUGIN INSTALL:
 
 **1. Install PAPERZD plugin on Unreal Fab Market place:**
-|
-|
-|
+
 <img width="565" height="856" alt="{65613C9D-C10B-4FA6-95AD-B330738B3231}" src="https://github.com/user-attachments/assets/2f8fee39-c1f0-49b5-b16a-11e1903a45f2" />
-|
-|
-|
+
 **2. Select the version you wish to install it to:**
-|
-|
-|   
+
 <img width="651" height="543" alt="{B4868595-C06E-40D6-ACE6-157F20794609}" src="https://github.com/user-attachments/assets/b864a224-892f-4895-986b-d9cad5a8f18d" />
-|
-|
-|
+
 **3. Once installed and project is able to open, enable the plugin in the plugins editor:**
-|
-|
-|   
+
 <img width="1256" height="699" alt="{658C6C26-F37C-4F25-B765-F42E414DD16B}" src="https://github.com/user-attachments/assets/2fc39cb3-b0f2-4e18-8b62-d1b7a212f684" />
-|
-|
-|
-|
+
    
 
 
